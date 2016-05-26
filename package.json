@@ -1,0 +1,26 @@
+{
+  "name": "cypher-builder",
+  "version": "0.0.1",
+  "description": "Javascript class to generate cypher querys ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhuerta/cypher-builder.git"
+  },
+  "keywords": [
+    "cypher",
+    "neo4j",
+    "node",
+    "javascript",
+    "nosql"
+  ],
+  "author": "Victor Huerta <victor@blackcore.com.mx>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/vhuerta/cypher-builder/issues"
+  },
+  "homepage": "https://github.com/vhuerta/cypher-builder#readme"
+}
